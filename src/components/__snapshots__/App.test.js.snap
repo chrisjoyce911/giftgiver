@@ -12,6 +12,11 @@ ShallowWrapper {
     <h2>
         Gift Giver
     </h2>
+    <div
+        className="gift-list"
+    >
+        
+    </div>
     <Button
         active={false}
         block={false}
@@ -29,6 +34,11 @@ ShallowWrapper {
       <h2>
             Gift Giver
       </h2>
+      <div
+            className="gift-list"
+      >
+            
+      </div>
       <Button
             active={false}
             block={false}
@@ -83,6 +93,11 @@ ShallowWrapper {
           <h2>
                     Gift Giver
           </h2>
+          <div
+                    className="gift-list"
+          >
+                    
+          </div>
           <Button
                     active={false}
                     block={false}
@@ -100,6 +115,11 @@ ShallowWrapper {
           <h2>
                     Gift Giver
           </h2>
+          <div
+                    className="gift-list"
+          >
+                    
+          </div>
           <Button
                     active={false}
                     block={false}
